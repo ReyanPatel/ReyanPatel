@@ -1,4 +1,4 @@
-Hello, I'm Reyan Patel, and I'm in 7th grade. This github repository shows my journey through all the projects I have been doing (and eventually will do). Here are a few things about me:
+Hello, I'm Reyan Patel, and I'm in 8th grade. This github repository shows my journey through all the projects I have been doing (and eventually will do). Here are a few things about me:
 
 - I love coding (Especially ML)
 - I love drawing cartoons and paiting in watercolor
