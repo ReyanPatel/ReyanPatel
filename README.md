@@ -2,7 +2,7 @@ Hello, I'm Reyan Patel, and I'm in 8th grade. This github repository shows my jo
 
 - I love coding (Especially ML)
 - I love drawing cartoons and paiting in watercolor
-- I raise an artstall to fundraise community shelters for animals
+- I raise an art stall to fundraise community shelters for animals
 
 <!---
 ReyanPatel/ReyanPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
